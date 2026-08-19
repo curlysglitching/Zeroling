@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Zeroling">
+  <rect width="512" height="512" rx="112" fill="#14181f"/>
+  <circle cx="256" cy="262" r="158" fill="none" stroke="#5fd3a0" stroke-width="26" opacity=".85"/>
+  <ellipse cx="256" cy="330" rx="80" ry="66" fill="#c46330"/>
+  <ellipse cx="256" cy="352" rx="48" ry="38" fill="#43291f"/>
+  <ellipse cx="196" cy="204" rx="32" ry="36" fill="#f7ecdf"/>
+  <ellipse cx="316" cy="204" rx="32" ry="36" fill="#f7ecdf"/>
+  <ellipse cx="196" cy="208" rx="16" ry="19" fill="#dba98e"/>
+  <ellipse cx="316" cy="208" rx="16" ry="19" fill="#dba98e"/>
+  <circle cx="256" cy="232" r="66" fill="#c46330"/>
+  <ellipse cx="256" cy="252" rx="45" ry="37" fill="#f7ecdf"/>
+  <ellipse cx="226" cy="226" rx="15" ry="17" fill="#43291f"/>
+  <ellipse cx="286" cy="226" rx="15" ry="17" fill="#43291f"/>
+  <ellipse cx="230" cy="226" rx="13" ry="15" fill="#1b1410"/>
+  <ellipse cx="282" cy="226" rx="13" ry="15" fill="#1b1410"/>
+  <circle cx="226" cy="221" r="4.5" fill="#ffffff" opacity=".9"/>
+  <circle cx="278" cy="221" r="4.5" fill="#ffffff" opacity=".9"/>
+  <ellipse cx="256" cy="254" rx="9" ry="7" fill="#2b1a15"/>
+</svg>
